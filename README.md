@@ -1,4 +1,4 @@
 # CIS148Chapter5
 
-*Name: Damon Mckay
-*Date: 11/18/2026
+- Name: Damon Mckay
+- Date: 11/18/2026
